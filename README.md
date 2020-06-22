@@ -1,16 +1,10 @@
-# mainiot
-
+# iot applications for home automations
+ 
 A new Flutter application.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+this project which i created was made to control applications around my house with nodemcu/raspberry pi .
+this is a simple project with colour changing buttons to distinguish between switching on and off (green- on and grey- off)
+and it updates "1" to the firebase when the light is switched on and "0" when it is switched off.
