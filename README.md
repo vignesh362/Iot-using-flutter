@@ -1,10 +1,7 @@
-# iot applications for home automations
+# IoT Solutions for Home Automation
  
 A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-this project which i created was made to control applications around my house with nodemcu/raspberry pi .
-this is a simple project with colour changing buttons to distinguish between switching on and off (green- on and grey- off)
-and it updates "1" to the firebase when the light is switched on and "0" when it is switched off.
+This project serves as an initial framework for a Flutter application designed to control various applications within my home using NodeMCU or Raspberry Pi. It features color-changing buttons for easy differentiation between on (green) and off (grey) states. Additionally, the application updates Firebase with "1" when the light is switched on and "0" when it is switched off.
